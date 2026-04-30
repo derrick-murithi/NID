@@ -38,4 +38,4 @@ Download NSL-KDD from: https://www.unb.ca/cic/datasets/nsl.html
 
 ## Author
 
-Your Name — CS Major · Cybersecurity Portfolio
+Derrick Murithi
